@@ -1,0 +1,46 @@
+.secret {
+    margin-bottom: 20px;
+}
+
+.star {
+    width:48px;
+    height:48px;
+    line-height: 48px;
+    margin-bottom: 10px;
+    text-align: center;
+    background: url("/static/img/star_empty.png") no-repeat;
+}
+
+.star-highlighted {
+    background: url("/static/img/star_full.png") no-repeat;
+}
+
+.command {
+    width:48px;
+    text-align: center;
+}
+
+.content {
+    padding: 10px 10px 10px 10px;
+    background-color: #DDE8F9;
+    border-radius: 10px;
+    white-space: normal;
+    word-break: break-all;
+}
+
+.pager {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.status {
+    margin-top: 20px;
+}
+
+.hidden-field {
+    color : #DDE8F9;
+}
+
+.content-bottom {
+    padding-top: 5px;
+}

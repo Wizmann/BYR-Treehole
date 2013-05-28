@@ -2,3 +2,8 @@
 *.pot
 *.pyc
 local_settings.py
+<<<<<<< HEAD
+build/
+env/
+=======
+>>>>>>> 9c3e301... Initial commit
